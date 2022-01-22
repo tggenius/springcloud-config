@@ -1,0 +1,2 @@
+config:
+  info: prod branch,springcloud/config-prod.yml version=1
